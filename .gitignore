@@ -1,0 +1,17 @@
+env/
+.idea
+.classpath
+.vscode/
+.project
+.settings/
+__pycache__/
+*.py[cod]
+
+# Gradle files
+.gradle/
+
+# Gradle build files
+build/
+
+# Target dir
+target/
