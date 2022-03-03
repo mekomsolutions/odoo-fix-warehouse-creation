@@ -1,0 +1,4 @@
+rootProject.name = 'odoo_warehouse'
+
+include 'odoo_warehouse'
+
