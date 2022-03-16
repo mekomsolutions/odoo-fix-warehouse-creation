@@ -1,2 +1,4 @@
 # odoo-fix-warehouse-creation
-Minimal Odoo Addon to fix the behavior of creating Warehouses and Locations and their associated Operation Types.
+Minimal Odoo Addon to alter the behavior of warehouse creation in Odoo.
+
+The addon will prevent the warehouse `create` method to create additional related records such as locations and operation types/rules.
