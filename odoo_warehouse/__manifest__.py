@@ -1,6 +1,6 @@
 {
     'name': "Odoo Warehouse",
-    'version': '1.0.0',
+    'version': '1.1.0-SNAPSHOT',
     'depends': ['base', 'stock'],
     'author': "Mekom Solutions",
     'website': "http://www.mekomsolutions.com",
